@@ -76,7 +76,7 @@ git push
 
 - [**@shawnyeusc**](https://github.com/shawnyeusc) I love LA
 
-- [***MingzhiYe16***](https://github.com/MingzhiYe16) I'm from Hefei, China. And I'm interested in the data science and the culture of the US
+- [***MingzhiYe16**](https://github.com/MingzhiYe16) I'm from Hefei, China. And I'm interested in the data science and the culture of the US
 
 - [**@hankezhe**](https://github.com/hankezhe)  “hi everyone my name is Hanke and I am a PhD student in Health Econ”
 
@@ -84,6 +84,7 @@ git push
 
 - [**@shiyushen**](https://github.com/shiyushen)I am now in China. 
 
+- [**@lysethan**](https://github.com/lysethan)I am yongsheng. I want to be a data scientist contributing to human health. 
 # PM566 Fall 2020 instructors
 
 [**@gvegayon**](https://github.com/gvegayon) adding some text <img src="https://avatars3.githubusercontent.com/u/893619?s=460&u=723af9d8b02e277a5a91e0c179bbdf4450abec4b&v=4" width="40px">
