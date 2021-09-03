@@ -33,7 +33,7 @@ repository.
 
 - smbaeyens
 
-- CarmenChenEpi
+- [**@CarmenChenEpi**](https://github.com/CarmenChenEpi/)Hi, this is Carmen! I am a second year Ph.D. student in Epidemiology. 
 
 - WebsterJiang
 
