@@ -47,7 +47,7 @@ repository.
 
 - aomidsalar
 
-- amyt917
+- amyt917- This is Amy, I am a PhD student at the school of Pharmacy :tada:
 
 - JuehanWang
 
