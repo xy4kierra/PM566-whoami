@@ -43,7 +43,7 @@ repository.
 
 - LeonaMa
 
-- genetnguyen
+- genetnguyen: Hello, my name is Gene! I am a 1st year student for the PHDS program.
 
 - aomidsalar
 
