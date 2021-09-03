@@ -70,9 +70,10 @@ repository.
 
 **@gvegayon**
 
-**@ksiegmund**
+[**@ksiegmund**](https://github.com/ksiegmund) 
+<img src="https://avatars.githubusercontent.com/u/8010048?s=400&u=27bfd29a5cf43c622f4c210dcb6c19ae69fda44e&v=4 alt="github pic" width="40px"> I love to eat good food. 
 
-[**@AbigailHorn**](https://github.com/abigailhorn) <img src="http://abigail-horn.com/wp-content/uploads/2018/09/photo_AbigailHorn.jpg" alt="Academic pic" width="40px"> A link to some music tracks recored many years ago on [my website](http://abigail-horn.com/index.php/music/).
+[**@AbigailHorn**](https://github.com/abigailhorn) <img src="http://abigail-horn.com/wp-content/uploads/2018/09/photo_AbigailHorn.jpg" alt="Academic pic" width="40px"> A link to some music tracks recorded many years ago on [my website](http://abigail-horn.com/index.php/music/).
 
 
 # Fall 2020
