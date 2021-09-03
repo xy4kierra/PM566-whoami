@@ -61,7 +61,7 @@ repository.
 
 - Nicky-Nie
 
-- jasmineslike
+-  [**@jasmineslike**](https://github.com/jasmineslike) Hello, I am Lili Xu from Hangzhou, China! I have been study at LA about 6 years!
 
 - caroline0029
 
