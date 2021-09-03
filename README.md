@@ -57,7 +57,7 @@ repository.
 
 - xy4kierra
 
-- NJY530
+- [**NJY530**](https://github.com/NJY530) Hi, I'm Jiayi, also fine with Joey. Current MS students in PPHS!
 
 - Nicky-Nie
 [**@Nicky-Nie**](https://github.com/Nicky-Nie) Hello,I'm Nicky Nie, my program is ms in biostatistics. I love games and painting =w=
