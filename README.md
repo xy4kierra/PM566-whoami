@@ -50,6 +50,7 @@ repository.
 - amyt917- This is Amy, I am a PhD student at the school of Pharmacy :tada:
 
 - JuehanWang
+[**@JuehanWang**](https://github.com/JuehanWang/) Hi everyone, I'm Juehan. I'm a master student in Biostatistics.
 
 - songruwa
 
