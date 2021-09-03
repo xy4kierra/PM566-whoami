@@ -50,6 +50,7 @@ repository.
 - amyt917
 
 - JuehanWang
+[**@JuehanWang**](https://github.com/JuehanWang/) Hi everyone, I'm Juehan. I'm a master student in Biostatistics.
 
 - songruwa
 
