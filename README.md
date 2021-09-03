@@ -67,7 +67,7 @@ repository.
 
 - caroline0029
 
-- ristopherCh ![Alt text](https://dornsife.usc.edu/assets/sites/1123/imgs/people/Chris_Hanson2x.jpg) **My name is Chris, I love an afternoon nap**
+- ristopherCh My name is Chris, I love an afternoon nap
 
 
 ## Instructors
