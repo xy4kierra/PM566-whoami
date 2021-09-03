@@ -45,7 +45,7 @@ repository.
 
 - genetnguyen
 
-- aomidsalar
+[**@aomidsalar](https://github.com/aomidsalar) Hello everyone, my name is Audrey. I am an LA native
 
 - amyt917
 
