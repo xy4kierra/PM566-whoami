@@ -3,7 +3,7 @@
 You need to make a fork of this repository, find your name in the list below, and replace it with something like:
 
 ```md
-[**@yywuzhanfei**](https://github.com/yywuzhanfei/) My undergraduate major was Plant Protection, but I prefer math, that's why I go to USC to study statistics.
+[**@username**](https://github.com/username/) something about you
 ```
 
 For example, this is what I did with mine:
@@ -54,6 +54,7 @@ repository.
 - songruwa
 
 - yywuzhanfei
+[**@yywuzhanfei**](https://github.com/yywuzhanfei/) My undergraduate major was Plant Protection, but I prefer math, that's why I go to USC to study statistics.
 
 - xy4kierra
 
