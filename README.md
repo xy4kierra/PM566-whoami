@@ -41,7 +41,7 @@ repository.
 
 - yqchristina
 
-- LeonaMa
+- [**@LeonaMa**](https://github.com/LeonaMa) Hi,I'm Leona.I'm a second year ms student majoring in biostats.
 
 - genetnguyen
 
