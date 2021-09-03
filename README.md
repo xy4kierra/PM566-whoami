@@ -65,6 +65,9 @@ repository.
 
 - caroline0029
 
+- hzhang74 
+[**hzhang74**](https://github.com/hzhang74) I'm Haoran Zhang and I'm a student in the MS Biostatistics program. I like playing games and sports.
+
 
 ## Instructors
 
