@@ -33,23 +33,24 @@ repository.
 
 - smbaeyens
 
-- CarmenChenEpi
+- [**@CarmenChenEpi**](https://github.com/CarmenChenEpi/)Hi, this is Carmen! I am a second year Ph.D. student in Epidemiology. 
 
 - WebsterJiang
 
 - PikaMike
 
-- yqchristina
+- yqchristina I'm a PhD student in Molecular Pharmacology and Toxicology from Canada :octocat:
 
-- LeonaMa
+- [**@LeonaMa**](https://github.com/LeonaMa) Hi,I'm Leona.I'm a second year ms student majoring in biostats.
 
 - genetnguyen
 
 - aomidsalar
 
-- amyt917
+- amyt917- This is Amy, I am a PhD student at the school of Pharmacy :tada:
 
 - JuehanWang
+[**@JuehanWang**](https://github.com/JuehanWang/) Hi everyone, I'm Juehan. I'm a master student in Biostatistics.
 
 - songruwa
 
@@ -57,25 +58,31 @@ repository.
 
 - xy4kierra
 
-- NJY530
+- [**NJY530**](https://github.com/NJY530) Hi, I'm Jiayi, also fine with Joey. Current MS students in PPHS!
 
 - Nicky-Nie
+[**@Nicky-Nie**](https://github.com/Nicky-Nie) Hello,I'm Nicky Nie, my program is ms in biostatistics. I love games and painting =w=
 
 - jasmineslike
 
 - caroline0029
 
+
 - hzhang74 
 [**hzhang74**](https://github.com/hzhang74) I'm Haoran Zhang and I'm a student in the MS Biostatistics program. I like playing games and sport.
+
+- ristopherCh My name is Chris, I love an afternoon nap
+
 
 
 ## Instructors
 
 **@gvegayon**
 
-**@ksiegmund**
+[**@ksiegmund**](https://github.com/ksiegmund) I love to sample different cuisines.
+<img src="https://avatars.githubusercontent.com/u/8010048?s=400&u=27bfd29a5cf43c622f4c210dcb6c19ae69fda44e&v=4" alt="github pic" width="40px"> 
 
-[**@AbigailHorn**](https://github.com/abigailhorn) <img src="http://abigail-horn.com/wp-content/uploads/2018/09/photo_AbigailHorn.jpg" alt="Academic pic" width="40px"> A link to some music tracks recored many years ago on [my website](http://abigail-horn.com/index.php/music/).
+[**@AbigailHorn**](https://github.com/abigailhorn) <img src="http://abigail-horn.com/wp-content/uploads/2018/09/photo_AbigailHorn.jpg" alt="Academic pic" width="40px"> A link to some music tracks recorded many years ago on [my website](http://abigail-horn.com/index.php/music/).
 
 
 # Fall 2020
