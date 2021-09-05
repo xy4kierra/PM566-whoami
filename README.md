@@ -57,6 +57,8 @@ repository.
 - yywuzhanfei
 
 - xy4kierra
+[**@xy4kierra**](https://github.com/xy4kierra) Hi,everyone, I'm Xiaoyu Zhu. I'm a master student in public health data scence. And I like hotpot.
+![hotpot](./hotpot.png)
 
 - [**NJY530**](https://github.com/NJY530) Hi, I'm Jiayi, also fine with Joey. Current MS students in PPHS!
 
