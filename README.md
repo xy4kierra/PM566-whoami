@@ -1,4 +1,4 @@
-# Intro to Data Science, Fall 2020
+# Intro to Public Health Data Science
 
 You need to make a fork of this repository, find your name in the list below, and replace it with something like:
 
@@ -16,13 +16,81 @@ Notice the figure of my username (that's optional and fun). This is the code I u
 [**@gvegayon**](https://github.com/gvegayon) My first programming language was VisualBasic and before going to business school I wanted to be a musician
 <img src="https://avatars3.githubusercontent.com/u/893619?s=460&u=723af9d8b02e277a5a91e0c179bbdf4450abec4b&v=4" alt="An old picture of me" width="40px">
 ```
-Look for your Github username and add a link to your Github profile and something about
-yourself (that you don't mind publicly sharing). Remember to only modify the line with your
-username!
 
-# PM566 Fall 2020 students
+Look for your GitHub username and add a link to your Github profile and something about
+yourself you don't mind sharing publicly. Remember to only modify the line with your
+username! If you don't see your username, just add it at the end of the list (and see what happens!).
+
+Once you are done, submit a
+[Pull Request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) to include your information in the original
+repository.
+
+# PM566 Fall 2021 students
+
+- jaxabercrombie
+
+[**@ramayyala**](https://github.com/ramayyala) When I was a kid, I had a pet fish named Porkchop who my parents replaced every year without me knowing. 
+
+- smbaeyens
+
+- [**@CarmenChenEpi**](https://github.com/CarmenChenEpi/)Hi, this is Carmen! I am a second year Ph.D. student in Epidemiology. 
+
+- WebsterJiang
+
+- PikaMike
+
+- yqchristina I'm a PhD student in Molecular Pharmacology and Toxicology from Canada :octocat:
+
+- [**@LeonaMa**](https://github.com/LeonaMa) Hi,I'm Leona.I'm a second year ms student majoring in biostats.
+
+- genetnguyen: Hello, my name is Gene! I am a 1st year student for the PHDS program.
+
+[**@aomidsalar**](https://github.com/aomidsalar) Hello everyone, my name is Audrey. I am an LA native
+
+- amyt917- This is Amy, I am a PhD student at the school of Pharmacy :tada:
+
+- JuehanWang
+[**@JuehanWang**](https://github.com/JuehanWang/) Hi everyone, I'm Juehan. I'm a master student in Biostatistics.
+
+- songruwa
+
+- yywuzhanfei
+[**@yywuzhanfei**](https://github.com/yywuzhanfei/) My undergraduate major was Plant Protection, but I prefer math, that's why I go to USC to study statistics.
+
+- xy4kierra
+[**@xy4kierra**](https://github.com/xy4kierra) Hi,everyone, I'm Xiaoyu Zhu. I'm a master student in public health data scence. And I like hotpot.
+![hotpot](./hotpot.png)
+
+- [**NJY530**](https://github.com/NJY530) Hi, I'm Jiayi, also fine with Joey. Current MS students in PPHS!
+
+- Nicky-Nie
+[**@Nicky-Nie**](https://github.com/Nicky-Nie) Hello,I'm Nicky Nie, my program is ms in biostatistics. I love games and painting =w=
+
+-  [**@jasmineslike**](https://github.com/jasmineslike) Hello, I am Lili Xu from Hangzhou, China! I have been study at LA about 6 years!
+
+- caroline0029
 
 
+- hzhang74 
+[**hzhang74**](https://github.com/hzhang74) I'm Haoran Zhang and I'm a student in the MS Biostatistics program. I like playing games and sport.
+
+- ristopherCh My name is Chris, I love an afternoon nap
+
+- [**@lysethan**](https://github.com/lysethan)I am yongsheng. I want to be a data scientist contributing to human health. 
+
+## Instructors
+
+[**@gvegayon**](https://github.com/gvegayon) I am a [Chilean](https://wikipedia.org/wiki/chile) <img src="https://avatars3.githubusercontent.com/u/893619?s=460&u=723af9d8b02e277a5a91e0c179bbdf4450abec4b&v=4" alt="An old picture of me" width="40px">.
+
+[**@ksiegmund**](https://github.com/ksiegmund) I love to sample different cuisines.
+<img src="https://avatars.githubusercontent.com/u/8010048?s=400&u=27bfd29a5cf43c622f4c210dcb6c19ae69fda44e&v=4" alt="github pic" width="40px"> 
+
+[**@AbigailHorn**](https://github.com/abigailhorn) <img src="http://abigail-horn.com/wp-content/uploads/2018/09/photo_AbigailHorn.jpg" alt="Academic pic" width="40px"> A link to some music tracks recorded many years ago on [my website](http://abigail-horn.com/index.php/music/).
+
+
+# Fall 2020
+
+## Students
 
 - [**@cbegay89**](https://github.com/cbegay89) git commit -a -m "Hello, this is Cynthia Begay"
 
@@ -37,14 +105,9 @@ username!
 
 - [**@Weijia-H**](https://github.com/Weijia-H/) Hi, I'm Weijia Hu. I love spicy food and have a dog named Lemon.
 
-
-
 - [**eshkim1021**](https://https://github.com/eshkim1021) I am from San Diego, CA.I loving playing instruments. I have played the cello for 8 years.
 
 - [**@slee2424**](https://github.com/slee2424) Hi everyone, I'm Jun. Nice to meet you all.
-
-
-
 
 - [**@yina-liu**](https://github.com/yina-liu) I'm a second-year master student of Biostatistics, and I prefer to use R as my data analysis tool.
 
@@ -84,8 +147,8 @@ git push
 
 - [**@shiyushen**](https://github.com/shiyushen)I am now in China. 
 
-- [**@lysethan**](https://github.com/lysethan)I am yongsheng. I want to be a data scientist contributing to human health. 
-# PM566 Fall 2020 instructors
+
+## Instructors
 
 [**@gvegayon**](https://github.com/gvegayon) adding some text <img src="https://avatars3.githubusercontent.com/u/893619?s=460&u=723af9d8b02e277a5a91e0c179bbdf4450abec4b&v=4" width="40px">
 
@@ -95,3 +158,11 @@ git push
 
 [**@AbigailHorn**](https://github.com/abigailhorn) <img src="http://abigail-horn.com/wp-content/uploads/2018/09/photo_AbigailHorn.jpg" alt="Academic pic" width="40px"> A link to some music tracks recored many years ago on [my website](http://abigail-horn.com/index.php/music/).
 
+# Previous versions
+
+[Fall 2020](https://github.com/USCbiostats/PM566-whoami/tree/fall2020)
+
+
+# Code of Conduct
+
+Please note that the PM566-whoami project is released with a [Contributor Code of Conduct](https://contributor-covenant.org/version/2/0/CODE_OF_CONDUCT.html). By contributing to this project, you agree to abide by its terms.
