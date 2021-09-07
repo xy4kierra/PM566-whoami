@@ -55,6 +55,7 @@ repository.
 - songruwa
 
 - yywuzhanfei
+[**@yywuzhanfei**](https://github.com/yywuzhanfei/) My undergraduate major was Plant Protection, but I prefer math, that's why I go to USC to study statistics.
 
 - xy4kierra
 [**@xy4kierra**](https://github.com/xy4kierra) Hi,everyone, I'm Xiaoyu Zhu. I'm a master student in public health data scence. And I like hotpot.
