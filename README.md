@@ -65,7 +65,7 @@ repository.
 - Nicky-Nie
 [**@Nicky-Nie**](https://github.com/Nicky-Nie) Hello,I'm Nicky Nie, my program is ms in biostatistics. I love games and painting =w=
 
-- jasmineslike
+-  [**@jasmineslike**](https://github.com/jasmineslike) Hello, I am Lili Xu from Hangzhou, China! I have been study at LA about 6 years!
 
 - caroline0029
 
