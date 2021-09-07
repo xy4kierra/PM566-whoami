@@ -43,7 +43,7 @@ repository.
 
 - [**@LeonaMa**](https://github.com/LeonaMa) Hi,I'm Leona.I'm a second year ms student majoring in biostats.
 
-- genetnguyen
+- genetnguyen: Hello, my name is Gene! I am a 1st year student for the PHDS program.
 
 [**@aomidsalar**](https://github.com/aomidsalar) Hello everyone, my name is Audrey. I am an LA native
 
