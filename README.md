@@ -31,7 +31,7 @@ repository.
 
 [**@ramayyala**](https://github.com/ramayyala) When I was a kid, I had a pet fish named Porkchop who my parents replaced every year without me knowing. 
 
-- smbaeyens
+- [**@smbaeyens**](https://github.com/smbaeyens/) Hi, I'm Sylvia! I am a second year MS student studying Biokinesiology with an emphasis in Sports Science.
 
 - [**@CarmenChenEpi**](https://github.com/CarmenChenEpi/)Hi, this is Carmen! I am a second year Ph.D. student in Epidemiology. 
 
