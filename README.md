@@ -69,7 +69,7 @@ repository.
 
 -  [**@jasmineslike**](https://github.com/jasmineslike) Hello, I am Lili Xu from Hangzhou, China! I have been study at LA about 6 years!
 
-- caroline0029
+- [**caroline0029**](https://github.com/caroline0029) Hi, I'm Caroline. I love LA.
 
 
 - hzhang74 
